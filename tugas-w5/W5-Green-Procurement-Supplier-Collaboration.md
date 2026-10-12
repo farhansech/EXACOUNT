@@ -143,7 +143,7 @@ Apple menjalankan keduanya. Pola dukungan langsung yang dipublikasikan Apple ant
 | Sistem data | Template dan portal pelaporan, ditambah pelatihan verifikasi data pihak ketiga | K7 naik 2 → 4 |
 | Insentif komersial | Alokasi volume model baru dikaitkan dengan pencapaian tonggak, ditambah komitmen volume multi-tahun agar investasi energi pemasok bisa kembali (bankable) | Kemauan dan stabilitas |
 
-Jika target tercapai, skor ilustratif Y dalam 12–18 bulan naik dari 60 menjadi sekitar **75**. Kenaikan ini berasal dari K4 (+6), K6 (+4), K7 (+4), dan K2 (+3), dengan penurunan K1 (−3) karena biaya transisi energi masuk ke harga.
+Jika target tercapai, skor ilustratif Y dalam 12–18 bulan naik dari 60 menjadi sekitar **74**. Kenaikan ini berasal dari K4 (+6), K6 (+4), K7 (+4), dan K2 (+3), dengan penurunan K1 (−3) karena biaya transisi energi masuk ke harga.
 
 # 7. Mekanisme Berbagi Data
 
