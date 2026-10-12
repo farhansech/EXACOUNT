@@ -1,20 +1,24 @@
 ---
-title: "Evaluasi Green Procurement dan Pengembangan Pemasok"
+title: "Evaluasi Green Procurement dan Pengembangan Pemasok: Rantai Pasok Apple iPhone"
 subtitle: "Tugas W5 — Green Procurement and Supplier Collaboration"
 lang: id
 ---
 
 # 1. Pendahuluan dan Konteks Kasus
 
-Green procurement (pembelian hijau) memasukkan pertimbangan lingkungan ke setiap tahap pengadaan: penetapan kebutuhan, spesifikasi, seleksi pemasok, kontrak, hingga evaluasi kinerja. Kerangka ini merujuk pada Ref [2] dan Ref [3] sebagai rujukan utama, dengan dukungan ISO 20400:2017 serta literatur pengembangan pemasok hijau (Vachon & Klassen, 2006; Bai & Sarkis, 2010).
+Green procurement (pembelian hijau) memasukkan pertimbangan lingkungan ke setiap tahap pengadaan: spesifikasi, seleksi pemasok, kontrak, hingga evaluasi kinerja. Kerangka ini merujuk pada Ref [2] dan Ref [3] sebagai rujukan utama, dengan dukungan ISO 20400:2017 serta literatur pengembangan pemasok hijau (Vachon & Klassen, 2006; Bai & Sarkis, 2010).
 
-**Kasus ilustratif.** Sebuah sekolah swasta K–12 di Tangerang membeli bahan pembersih dan sanitasi (disinfektan, pembersih lantai, sabun cuci tangan, pembersih toilet) senilai sekitar **Rp120 juta per tahun**. Kategori ini dipilih karena:
+**Mengapa iPhone.** Apple tidak memproduksi iPhone sendiri. Perakitan dan hampir seluruh komponen dikerjakan oleh pemasok di Tiongkok, India, Vietnam, Taiwan, dan negara lain. Karena itu, sebagian besar jejak karbon Apple berasal dari manufaktur di rantai pasoknya, bukan dari operasi Apple sendiri (Apple, *Environmental Progress Report*). Hal ini menjadikan pengadaan dan kolaborasi pemasok sebagai tuas utama untuk mencapai target **Apple 2030**, yaitu netral karbon di seluruh rantai nilai dengan pengurangan emisi sekitar 75% dibanding baseline 2015.
 
-- dampak lingkungannya nyata: limbah kimia ke saluran air, kemasan plastik sekali pakai, dan paparan bahan kimia bagi siswa serta petugas kebersihan;
-- pasarnya terdiri atas tiga jenis pemasok yang mewakili dilema umum, yaitu distributor merek besar, UMKM lokal, dan produsen murah konvensional;
-- volume pembeliannya cukup untuk memberi daya tawar, tetapi tidak cukup untuk memaksa pemasok besar mengubah produknya.
+**Program hijau pemasok Apple yang dianalisis:**
 
-Angka dalam dokumen ini merupakan ilustrasi untuk menunjukkan cara kerja metode. Angka tersebut perlu diganti dengan data riil organisasi.
+- **Supplier Code of Conduct** dan **Supplier Responsibility Standards**: syarat dasar bagi semua pemasok, termasuk aspek lingkungan, ketenagakerjaan, dan bahan kimia.
+- **Supplier Clean Energy Program** (sejak 2015): pemasok berkomitmen memakai 100% listrik terbarukan untuk produksi Apple.
+- **Zero Waste Program** dan **Supplier Clean Water Program**: pengurangan limbah ke TPA dan efisiensi air di fasilitas pemasok.
+- **Material daur ulang dan mineral bertanggung jawab**, misalnya target kobalt daur ulang untuk baterai rancangan Apple, emas dan timah daur ulang pada papan sirkuit, serta audit smelter/refiner untuk timah, tantalum, tungsten, emas (3TG), dan kobalt.
+- **Regulated Substances Specification**: daftar zat yang dibatasi atau dilarang dalam produk dan proses.
+
+> Catatan: nama program di atas bersumber dari laporan publik Apple. **Pemasok X, Y, dan Z dalam matriks adalah arketipe anonim**, bukan perusahaan nyata, dan skornya ilustratif untuk menunjukkan cara kerja metode.
 
 # 2. Kriteria Pembelian Hijau
 
@@ -24,103 +28,103 @@ Kriteria disusun dalam dua lapis. Lapis pertama adalah **gerbang wajib (pass/fai
 
 | Kode | Persyaratan | Bukti |
 |---|---|---|
-| G1 | Legalitas usaha (NIB) dan izin edar PKRT dari Kemenkes untuk produk pembersih | Salinan NIB, nomor izin edar |
-| G2 | Safety Data Sheet (SDS/MSDS) tersedia dalam Bahasa Indonesia untuk setiap SKU | Dokumen SDS |
-| G3 | Produk tidak mengandung bahan yang dilarang atau dibatasi (misalnya fosfat tinggi, NPE, atau klorin untuk area kelas anak) | Komposisi dan SDS |
-| G4 | Tidak ada pelanggaran lingkungan atau ketenagakerjaan berat dalam 2 tahun terakhir | Surat pernyataan dan pengecekan publik |
+| G1 | Menandatangani dan mematuhi Supplier Code of Conduct | Kontrak, hasil asesmen awal |
+| G2 | Tidak ada zat terlarang menurut Regulated Substances Specification | Laporan uji bahan, deklarasi material |
+| G3 | Smelter/refiner untuk 3TG dan kobalt berstatus sesuai (conformant) dengan audit pihak ketiga | Daftar smelter, laporan audit |
+| G4 | Tidak ada pelanggaran inti (core violation) yang belum diperbaiki, misalnya pembuangan limbah berbahaya ilegal atau pemalsuan data | Riwayat asesmen |
 
 ## 2.2 Kriteria berbobot
 
 | No | Kriteria | Dimensi | Bobot | Indikator penilaian (skala 1–5) |
 |---|---|---|---|---|
-| K1 | Harga & total cost of ownership (TCO) | Biaya | 20% | Biaya per liter siap pakai (setelah pengenceran), ongkos kirim, dan biaya pembuangan |
-| K2 | Kualitas & konsistensi produk | Kualitas | 15% | Hasil uji coba pemakaian, tingkat keluhan, dan konsistensi antar-batch |
-| K3 | Kinerja pengiriman | Risiko | 10% | Ketepatan waktu, lead time, dan pemenuhan pesanan |
-| K4 | Sistem & sertifikasi lingkungan | Lingkungan | 15% | ISO 14001, Ekolabel KLHK, Green Label Indonesia, atau setara |
-| K5 | Profil bahan produk | Lingkungan | 15% | Biodegradabilitas, kadar VOC rendah, dan bebas fosfat serta pewangi berbahaya |
-| K6 | Kemasan & take-back | Lingkungan | 10% | Kemasan isi ulang (jeriken 20 L), penarikan kembali kemasan, dan kandungan daur ulang |
-| K7 | Kesiapan berbagi data | Kolaborasi | 10% | Kemampuan melaporkan volume, kemasan, dan pembaruan SDS secara rutin |
-| K8 | Kapasitas & kemauan berkembang | Kapasitas | 5% | Komitmen tertulis terhadap rencana perbaikan dan keterbukaan untuk diaudit |
+| K1 | Harga & total cost | Biaya | 15% | Harga per unit/komponen dan biaya transisi |
+| K2 | Kualitas & yield produksi | Kualitas | 15% | Tingkat cacat, yield lini produksi, dan hasil audit mutu |
+| K3 | Kapasitas & ketahanan pasokan | Risiko | 10% | Kapasitas volume saat peluncuran, diversifikasi lokasi, dan risiko geopolitik |
+| K4 | Energi terbarukan | Lingkungan | 15% | % listrik terbarukan untuk produksi Apple dan komitmen pada Supplier Clean Energy |
+| K5 | Material daur ulang & kepatuhan zat | Lingkungan | 15% | % material daur ulang (aluminium, kobalt, emas, timah, tanah jarang) dan kepatuhan zat terbatas |
+| K6 | Limbah & air | Lingkungan | 10% | Status Zero Waste (pengalihan dari TPA) dan skor efisiensi air |
+| K7 | Transparansi data | Kolaborasi | 10% | Pelaporan energi, emisi, air, dan limbah yang tepat waktu dan diverifikasi pihak ketiga |
+| K8 | Kapasitas & kemauan berkembang | Kapasitas | 10% | Partisipasi dalam pelatihan, rencana dekarbonisasi tertulis, dan kecepatan menutup temuan |
 | | **Total** | | **100%** | |
 
-Bobot lingkungan langsung (K4 + K5 + K6) berjumlah **40%**, sedangkan biaya, kualitas, dan risiko (K1 + K2 + K3) berjumlah **45%**. Dengan proporsi ini, pemasok yang "hijau tetapi mahal dan tidak andal" tidak otomatis menang, dan pemasok yang "murah tetapi mencemari" juga tidak. K7 dan K8 sengaja dimasukkan karena kolaborasi jangka panjang bergantung pada data dan kemauan berkembang, tidak hanya pada kondisi pemasok saat ini (Vachon & Klassen, 2006).
+Bobot lingkungan langsung (K4 + K5 + K6) berjumlah **40%**, sedangkan biaya, kualitas, dan risiko (K1 + K2 + K3) berjumlah **40%**. Pada produk seperti iPhone, kualitas dan kapasitas saat peluncuran tidak bisa dikorbankan. Karena itu, porsi biaya relatif kecil (15%) dibanding kualitas dan risiko. K7 dan K8 diberi bobot 20% karena target 2030 hanya bisa dicapai jika pemasok mau dan mampu berubah, serta melaporkan kemajuannya secara jujur (Vachon & Klassen, 2006).
 
 # 3. Supplier Criteria Matrix (Keluaran 1)
 
-Ketiga calon pemasok lolos gerbang G1–G4. Pemasok C lolos G3 dengan catatan karena produknya tidak dipakai di area kelas anak.
+Ketiga arketipe pemasok lolos gerbang G1–G4:
 
-- **Pemasok A**: distributor merek nasional dengan produk berekolabel. Harganya sekitar 18% di atas rata-rata.
-- **Pemasok B**: UMKM produsen lokal di Tangerang yang menyediakan isi ulang jeriken. Pemasok ini belum bersertifikat, tetapi sangat responsif.
-- **Pemasok C**: produsen konvensional dengan harga termurah, tanpa dokumen lingkungan, dan kemasannya sekali pakai.
+- **Pemasok X**: perusahaan EMS (perakit) besar yang sudah lama bermitra di Tiongkok. Pemasok ini sudah berkomitmen pada Supplier Clean Energy dan fasilitasnya bersertifikat Zero Waste.
+- **Pemasok Y**: perakit baru di India yang menjadi bagian dari strategi diversifikasi lokasi produksi. Kapasitasnya terus tumbuh, tetapi akses listrik terbarukannya masih terbatas.
+- **Pemasok Z**: pemasok komponen tier-2 (misalnya casing atau sub-komponen baterai) dengan harga termurah. Pemasok ini belum berkomitmen pada energi terbarukan dan data lingkungannya minim.
 
 Skor tertimbang = Σ (bobot × skor) ÷ 5, dinyatakan dalam skala 0–100.
 
-| Kriteria | Bobot | A skor | A nilai | B skor | B nilai | C skor | C nilai |
+| Kriteria | Bobot | X skor | X nilai | Y skor | Y nilai | Z skor | Z nilai |
 |---|---|---|---|---|---|---|---|
-| K1 Harga & TCO | 20 | 2 | 8,0 | 4 | 16,0 | 5 | 20,0 |
-| K2 Kualitas | 15 | 5 | 15,0 | 3 | 9,0 | 3 | 9,0 |
-| K3 Pengiriman | 10 | 4 | 8,0 | 3 | 6,0 | 4 | 8,0 |
-| K4 Sertifikasi lingkungan | 15 | 5 | 15,0 | 1 | 3,0 | 1 | 3,0 |
-| K5 Profil bahan | 15 | 5 | 15,0 | 3 | 9,0 | 1 | 3,0 |
-| K6 Kemasan & take-back | 10 | 3 | 6,0 | 4 | 8,0 | 1 | 2,0 |
-| K7 Kesiapan data | 10 | 4 | 8,0 | 2 | 4,0 | 1 | 2,0 |
-| K8 Kapasitas berkembang | 5 | 3 | 3,0 | 5 | 5,0 | 2 | 2,0 |
-| **Total** | **100** | | **78,0** | | **60,0** | | **49,0** |
+| K1 Harga & total cost | 15 | 3 | 9,0 | 4 | 12,0 | 5 | 15,0 |
+| K2 Kualitas & yield | 15 | 5 | 15,0 | 3 | 9,0 | 3 | 9,0 |
+| K3 Kapasitas & ketahanan | 10 | 4 | 8,0 | 3 | 6,0 | 3 | 6,0 |
+| K4 Energi terbarukan | 15 | 4 | 12,0 | 2 | 6,0 | 1 | 3,0 |
+| K5 Material daur ulang & zat | 15 | 4 | 12,0 | 3 | 9,0 | 2 | 6,0 |
+| K6 Limbah & air | 10 | 5 | 10,0 | 2 | 4,0 | 1 | 2,0 |
+| K7 Transparansi data | 10 | 5 | 10,0 | 2 | 4,0 | 1 | 2,0 |
+| K8 Kapasitas berkembang | 10 | 3 | 6,0 | 5 | 10,0 | 2 | 4,0 |
+| **Total** | **100** | | **82,0** | | **60,0** | | **47,0** |
 
 **Aturan keputusan:**
 
 | Rentang skor | Status | Konsekuensi |
 |---|---|---|
-| ≥ 70 | *Preferred* | Kontrak penuh dan bisa mendapat kontrak multi-tahun |
-| 55–69 | *Conditional* | Kontrak terbatas dan wajib mengikuti program pengembangan (bagian 6) |
-| < 55 | *Not approved* | Tidak mendapat kontrak baru. Kontrak yang berjalan dihentikan bertahap (phase-out) |
+| ≥ 70 | *Preferred* | Alokasi volume penuh, prioritas untuk model iPhone baru |
+| 55–69 | *Conditional* | Alokasi volume terbatas dan wajib mengikuti program pengembangan (bagian 6) |
+| < 55 | *Not approved* | Tidak mendapat bisnis baru. Bisnis berjalan dikurangi bertahap kecuali ada rencana perbaikan yang disetujui |
 
-**Hasilnya:** A berstatus preferred, B conditional, dan C not approved. Pemasok C memang paling murah, tetapi tetap gugur. Ini menunjukkan bahwa kriteria hijau benar-benar memengaruhi keputusan dan tidak sekadar menjadi formalitas.
+**Hasilnya:** X berstatus preferred, Y conditional, dan Z not approved. Pemasok Z memang paling murah, tetapi gugur karena tidak mendukung target energi dan data. Ini menunjukkan bahwa kriteria hijau benar-benar memengaruhi alokasi bisnis.
 
 # 4. Proses Seleksi dan Audit Pemasok
 
 ## 4.1 Segmentasi risiko
 
-Intensitas audit disesuaikan dengan risiko. Dengan begitu, sumber daya pengadaan yang terbatas difokuskan pada pemasok dengan risiko terbesar.
+Intensitas audit disesuaikan dengan risiko, karena rantai pasok iPhone terdiri atas ratusan pemasok langsung dan jauh lebih banyak sub-pemasok.
 
 | | Dampak lingkungan rendah | Dampak lingkungan tinggi |
 |---|---|---|
-| **Belanja tinggi** | Tier 2: desk audit tahunan | **Tier 1: kunjungan lapangan dan audit tahunan** |
-| **Belanja rendah** | Tier 3: self-assessment saja | Tier 2: desk audit tahunan |
+| **Belanja/kekritisan tinggi** | Tier 2: desk audit dan asesmen berkala | **Tier 1: audit lapangan pihak ketiga setiap tahun** |
+| **Belanja/kekritisan rendah** | Tier 3: self-assessment | Tier 2: asesmen berkala |
 
-Bahan pembersih dan disinfektan termasuk **Tier 1** karena dampak bahan kimianya tinggi dan nilai belanjanya besar.
+Contoh **Tier 1** adalah perakitan akhir, produksi casing logam (konsumsi energi tinggi), PCB (bahan kimia dan air), sel baterai, serta smelter/refiner mineral.
 
 ## 4.2 Tahapan seleksi dan audit
 
-1. **Identifikasi kebutuhan dan spesifikasi hijau.** Spesifikasi ditulis berdasarkan fungsi (misalnya "pembersih lantai biodegradable ≥ 60% dalam 28 hari, isi ulang 20 L"), bukan berdasarkan merek. Cara ini membuka peluang bagi UMKM.
-2. **Pra-kualifikasi.** Pemasok mengisi kuesioner *self-assessment* dan melampirkan dokumen gerbang G1–G4.
-3. **Verifikasi dokumen (desk audit).** Tim mengecek keaslian sertifikat, kesesuaian SDS dengan label, dan nomor izin edar.
-4. **Uji coba produk.** Produk dipakai selama 2–4 minggu di dua area. Petugas kebersihan menilai hasilnya untuk skor K2.
-5. **Audit lapangan (khusus Tier 1).** Tim memeriksa penyimpanan bahan kimia, pengelolaan limbah cair, sistem take-back kemasan, dan ketertelusuran batch.
-6. **Penilaian matriks dan keputusan.** Penilaian dilakukan minimal oleh dua penilai (pengadaan dan GA/K3) untuk mengurangi bias, lalu skor dirata-rata.
-7. **Corrective Action Plan (CAP).** Setiap temuan dicatat beserta tenggat waktu dan penanggung jawabnya.
-8. **Audit ulang dan pemantauan.** Audit ulang dilakukan setiap tahun untuk Tier 1. KPI dipantau setiap kuartal melalui mekanisme berbagi data (bagian 7).
+1. **Spesifikasi hijau.** Spesifikasi menyebut persyaratan material daur ulang (misalnya emas dan timah daur ulang pada PCB, kobalt daur ulang pada baterai), daftar zat terbatas, dan persyaratan kemasan berbasis serat.
+2. **Pra-kualifikasi.** Pemasok mengisi *self-assessment* dan melampirkan bukti gerbang G1–G4, termasuk daftar smelter.
+3. **Asesmen awal sebelum produksi.** Fasilitas baru diaudit sebelum masuk rantai pasok. Fokusnya izin lingkungan, pengelolaan limbah berbahaya, dan air limbah.
+4. **Uji kualitas dan kualifikasi lini.** Produksi percontohan (pilot run) dijalankan untuk mengukur yield (K2) dan kapasitas (K3).
+5. **Audit lapangan pihak ketiga (khusus Tier 1).** Auditor memeriksa sistem energi, catatan limbah, instalasi pengolahan air limbah, penyimpanan bahan kimia, dan keaslian data.
+6. **Penilaian matriks dan keputusan alokasi.** Tim lintas fungsi (pengadaan, operasi, lingkungan) menilai pemasok, lalu skor dirata-rata.
+7. **Corrective Action Plan (CAP).** Setiap temuan dicatat beserta tenggat waktu, penanggung jawab, dan bukti penutupan.
+8. **Audit ulang dan pemantauan.** Audit ulang dilakukan setiap tahun untuk Tier 1. Data energi, air, dan limbah dipantau rutin melalui mekanisme berbagi data (bagian 7).
 
 ## 4.3 Klasifikasi temuan audit
 
 | Kategori | Contoh | Tindakan |
 |---|---|---|
-| Kritis | Produk tidak sesuai SDS, ada bahan terlarang | Pengiriman dihentikan dan dilakukan audit ulang dalam 30 hari |
-| Mayor | Tidak ada penampungan limbah, data tidak dikirim 2 kuartal | CAP dengan tenggat 90 hari |
-| Minor | Label kurang lengkap, dokumentasi belum rapi | CAP dengan tenggat 180 hari |
+| Kritis / core violation | Pembuangan limbah berbahaya ilegal, pemalsuan data, zat terlarang dalam produk | Bisnis baru dihentikan, CAP segera, verifikasi ulang oleh pihak ketiga |
+| Mayor | Air limbah melebihi baku mutu, data energi tidak dikirim | CAP dengan tenggat 90 hari |
+| Minor | Pelabelan limbah kurang lengkap, dokumentasi pelatihan belum rapi | CAP dengan tenggat 180 hari |
 
 # 5. Target Lingkungan
 
-Target disusun dengan prinsip SMART dan dikaitkan langsung dengan kriteria matriks.
+Target diturunkan dari Apple 2030 dan dikaitkan langsung dengan kriteria matriks. Baseline per pemasok bersifat ilustratif.
 
-| No | Target (akhir tahun anggaran berikutnya) | Baseline (ilustrasi) | Indikator | Terkait kriteria |
+| No | Target pemasok | Baseline ilustratif (Pemasok Y) | Indikator | Terkait kriteria |
 |---|---|---|---|---|
-| T1 | ≥ 60% belanja kategori pembersih untuk produk berekolabel atau terverifikasi biodegradable | 15% | % nilai belanja | K4, K5 |
-| T2 | Kemasan plastik sekali pakai turun 40% melalui sistem isi ulang 20 L | ±1.000 botol per tahun | Jumlah atau kg kemasan | K6 |
-| T3 | ≥ 70% jeriken kembali melalui take-back | 0% | % jeriken kembali | K6 |
-| T4 | 100% pemasok Tier 1 mengirim laporan data kuartalan tepat waktu | 0% | % laporan diterima | K7 |
-| T5 | Nol temuan audit kritis | Belum diaudit | Jumlah temuan kritis | Gerbang G2–G3 |
-| T6 | Pemasok B naik dari skor 60 ke ≥ 70 dalam 12 bulan | 60 | Skor matriks | K4–K8 |
+| T1 | 100% listrik terbarukan untuk produksi Apple paling lambat 2030, dengan tonggak 50% di tahun ke-2 | 10% | % MWh terbarukan | K4 |
+| T2 | Kandungan daur ulang sesuai spesifikasi untuk setiap komponen yang ditetapkan | Sebagian | % komponen sesuai | K5 |
+| T3 | Sertifikasi Zero Waste (pengalihan dari TPA ≥ 90%) dalam 24 bulan | 60% | % limbah dialihkan | K6 |
+| T4 | Pemakaian air per unit turun 20% dan daur ulang air meningkat | Belum diukur | m³/unit, % air didaur ulang | K6 |
+| T5 | 100% data energi/air/limbah dilaporkan tepat waktu dan diverifikasi pihak ketiga | 40% | % laporan terverifikasi | K7 |
+| T6 | Skor matriks Pemasok Y naik dari 60 ke ≥ 70 dalam 12–18 bulan | 60 | Skor matriks | K4–K8 |
 
 # 6. Dukungan Pengembangan Pemasok
 
@@ -129,89 +133,91 @@ Literatur membedakan dua jenis pengembangan pemasok (Krause, Handfield & Scannel
 - **pengembangan berbasis penilaian** (assessment-based), yaitu menetapkan standar, mengaudit, dan memberi umpan balik;
 - **pengembangan langsung** (direct involvement), yaitu menanamkan sumber daya pembeli secara langsung pada pemasok.
 
-Karena posisi tawar sekolah kecil, kombinasi keduanya paling realistis. Program ini difokuskan pada Pemasok B.
+Apple menjalankan keduanya. Pola dukungan langsung yang dipublikasikan Apple antara lain pelatihan energi bersih bagi pemasok (Clean Energy Academy), dana investasi energi bersih bersama pemasok di Tiongkok (China Clean Energy Fund, 2018), serta pendampingan teknis untuk program air dan limbah. Rancangan berikut menerapkan pola itu pada Pemasok Y.
 
-| Bentuk dukungan | Rincian | Biaya pembeli (ilustrasi) | Target |
-|---|---|---|---|
-| Pelatihan teknis | Workshop formulasi biodegradable dan penyusunan SDS bersama konsultan atau dinas UMKM | Rp5 juta | K5 naik 3 → 4 |
-| Pendampingan sertifikasi | Berbagi biaya 50% untuk uji laboratorium biodegradabilitas sebagai langkah awal menuju ekolabel | Rp7,5 juta | K4 naik 1 → 3 |
-| Template & sistem data | Sekolah menyediakan template laporan dan melatih staf pemasok mengisinya | Rp0 (waktu staf) | K7 naik 2 → 4 |
-| Uji coba bersama | Sekolah menjadi lokasi uji produk baru dan memberi umpan balik terstruktur | Rp2,5 juta (produk uji) | K2 naik 3 → 4 |
-| Insentif komersial | Komitmen volume 12 bulan dan termin pembayaran dipercepat (30 → 14 hari) jika target kuartalan tercapai | Biaya modal kerja kecil | Kemauan & stabilitas |
-| **Total investasi** | | **≈ Rp15 juta** | Skor B ≥ 70 |
+| Bentuk dukungan | Rincian | Target |
+|---|---|---|
+| Pelatihan dekarbonisasi | Pemasok mengikuti program pelatihan energi bersih: audit energi, efisiensi, dan cara membeli energi terbarukan | Rencana dekarbonisasi tertulis dalam 6 bulan (K8) |
+| Akses energi terbarukan | Pembelian kolektif (aggregated PPA) dengan pemasok lain di wilayah yang sama, dan atap pabrik dipakai untuk PLTS | K4 naik 2 → 4 |
+| Pendampingan teknis air & limbah | Tim ahli membantu desain daur ulang air dan pemilahan limbah untuk mencapai Zero Waste | K6 naik 2 → 4 |
+| Sistem data | Template dan portal pelaporan, ditambah pelatihan verifikasi data pihak ketiga | K7 naik 2 → 4 |
+| Insentif komersial | Alokasi volume model baru dikaitkan dengan pencapaian tonggak, ditambah komitmen volume multi-tahun agar investasi energi pemasok bisa kembali (bankable) | Kemauan dan stabilitas |
 
-Jika target tercapai, skor ilustratif B dalam 12 bulan naik dari 60 menjadi sekitar **72**. Kenaikan ini berasal dari K4 (+6), K5 (+3), K7 (+4), dan K2 (+3), dengan sedikit penurunan K1 (−4) karena harga naik tipis (±5%) setelah formulasi berubah.
+Jika target tercapai, skor ilustratif Y dalam 12–18 bulan naik dari 60 menjadi sekitar **75**. Kenaikan ini berasal dari K4 (+6), K6 (+4), K7 (+4), dan K2 (+3), dengan penurunan K1 (−3) karena biaya transisi energi masuk ke harga.
 
 # 7. Mekanisme Berbagi Data
 
-Berbagi data adalah fondasi kolaborasi. Tanpa data, target pada bagian 5 tidak bisa diverifikasi.
+Target karbon di rantai pasok hanya bisa diklaim jika datanya bisa diverifikasi. Karena itu, berbagi data dirancang dua arah.
 
 | Elemen | Rancangan |
 |---|---|
-| **Data yang dibagikan pemasok** | Volume per SKU (liter), jumlah atau berat kemasan terkirim, jeriken kembali, pembaruan SDS dan komposisi, insiden mutu, serta status CAP |
-| **Data yang dibagikan pembeli** | Prakiraan kebutuhan 3–6 bulan, hasil penilaian kualitas oleh petugas, skor matriks terbaru, dan rencana spesifikasi baru |
-| **Frekuensi** | Bulanan untuk volume dan kemasan, kuartalan untuk scorecard, dan segera untuk insiden atau perubahan formulasi |
-| **Media** | Spreadsheet bersama dengan *protected range*: pemasok hanya bisa mengisi kolomnya sendiri, sedangkan kolom penilaian hanya bisa diubah oleh tim pengadaan |
-| **Validasi** | Volume dicocokkan dengan PO dan nota penerimaan barang. Selisih lebih dari 5% ditandai untuk ditinjau |
-| **Kerahasiaan** | Data formulasi dan harga pokok pemasok tidak diminta. Yang diminta hanya klaim lingkungan yang bisa diverifikasi. Data hanya dipakai untuk evaluasi dan tidak dibagikan ke pesaing |
-| **Umpan balik** | Scorecard kuartalan dikirim kembali ke pemasok sehingga data mengalir dua arah dan tidak hanya diminta dari pemasok |
+| **Data dari pemasok** | Konsumsi listrik (MWh) dan porsi terbarukan beserta bukti (PPA, REC/I-REC), pemakaian dan daur ulang air, tonase limbah per jalur, daftar smelter, deklarasi material, dan status CAP |
+| **Data dari Apple ke pemasok** | Prakiraan volume, faktor alokasi emisi per produk, hasil scorecard, rencana spesifikasi material untuk model berikutnya, dan praktik terbaik dari pemasok lain (anonim) |
+| **Frekuensi** | Bulanan untuk energi; kuartalan untuk air, limbah, dan scorecard; tahunan untuk audit dan daftar smelter; segera untuk insiden lingkungan |
+| **Media** | Portal pemasok terpusat dengan hak akses per pemasok. Pemasok hanya melihat dan mengisi datanya sendiri |
+| **Validasi** | Verifikasi pihak ketiga untuk klaim energi terbarukan, pencocokan dengan tagihan listrik dan meter, serta pemeriksaan sampel saat audit lapangan |
+| **Kerahasiaan** | Data biaya dan proses pemasok dilindungi kontrak dan hanya dipakai untuk evaluasi. Pengungkapan publik hanya dalam bentuk agregat, misalnya jumlah pemasok yang berkomitmen pada energi terbarukan |
+| **Umpan balik** | Scorecard kuartalan dikirim kembali ke pemasok, dilengkapi posisi relatif terhadap pemasok sejenis (benchmark anonim) |
 
 # 8. Rancangan Mekanisme Kolaborasi (Keluaran 2)
 
-Rancangan ini menyatukan bagian 4–7 menjadi satu siklus tahunan yang berulang:
+Rancangan ini menyatukan bagian 4–7 menjadi satu siklus yang mengikuti siklus peluncuran iPhone tahunan:
 
 ```
-  [1] Spesifikasi hijau ──► [2] Seleksi & audit ──► [3] Kontrak dengan klausul hijau
-          ▲                                                      │
-          │                                                      ▼
+  [1] Spesifikasi hijau model baru ──► [2] Seleksi & audit ──► [3] Alokasi volume + klausul hijau
+          ▲                                                              │
+          │                                                              ▼
   [6] Review tahunan ◄── [5] Scorecard kuartalan ◄── [4] Pengembangan & berbagi data
-     (naik/turun status,      (data 2 arah)            (pelatihan, uji coba,
-      revisi target)                                     insentif, CAP)
+     (naik/turun status,      (data 2 arah,           (pelatihan energi bersih,
+      revisi target 2030)      terverifikasi)           PPA kolektif, CAP)
 ```
 
 | Komponen | Isi rancangan | Penanggung jawab |
 |---|---|---|
-| **Tata kelola** | Rapat kolaborasi kuartalan (60 menit) antara pengadaan, GA/K3, dan pemilik atau manajer pemasok. Agendanya scorecard, status CAP, dan rencana kuartal berikutnya | Koordinator pengadaan |
-| **Klausul kontrak** | Kewajiban SDS, laporan data bulanan, take-back jeriken, dan hak audit. Klausul tambahan: harga dikunci 6 bulan, dan tiga temuan mayor tanpa perbaikan menjadi dasar pemutusan kontrak | Pengadaan + manajemen |
-| **Insentif** | Pemasok yang mencapai status *preferred* mendapat perpanjangan kontrak, termin pembayaran lebih cepat, dan prioritas pada kategori baru | Manajemen |
-| **Konsekuensi** | Skor turun di bawah 55 dua kuartal berturut-turut berarti phase-out. Temuan kritis berarti pengiriman dihentikan | Pengadaan |
-| **Eskalasi** | Masalah dibawa dari staf pengadaan ke koordinator, lalu ke pimpinan sekolah dan pemilik usaha pemasok | Berjenjang |
-| **Pembelajaran bersama** | Kegiatan tahunan "hari pemasok": berbagi praktik baik antarpemasok dan menyampaikan target tahun berikutnya | Pengadaan |
+| **Tata kelola** | Business review kuartalan yang menggabungkan agenda biaya, kualitas, dan lingkungan, sehingga isu hijau tidak dibahas di forum terpisah yang mudah diabaikan | Commodity manager + tim lingkungan |
+| **Klausul kontrak** | Kewajiban kepatuhan Code of Conduct, pelaporan data, hak audit pihak ketiga, dan komitmen energi terbarukan dengan tonggak waktu | Pengadaan + legal |
+| **Insentif** | Pemasok *preferred* mendapat prioritas alokasi model baru, komitmen volume multi-tahun, dan akses ke program pendanaan energi bersih | Manajemen pengadaan |
+| **Konsekuensi** | Tonggak energi terlewat dua kali berturut-turut berarti alokasi model baru dikurangi. Core violation berarti bisnis baru dihentikan | Pengadaan |
+| **Eskalasi** | Masalah dibawa dari tim lapangan ke commodity manager, lalu ke pimpinan operasi Apple dan manajemen puncak pemasok | Berjenjang |
+| **Pembelajaran bersama** | Forum tahunan pemasok untuk berbagi praktik terbaik energi, air, dan limbah, serta pembelian energi kolektif lintas pemasok | Tim lingkungan |
 
-# 9. Dilema: Biaya vs Kapasitas (dengan Risiko dan Kualitas)
+# 9. Dilema: Kapasitas vs Biaya (dengan Risiko dan Kualitas)
 
-**Dilemanya.** Pemasok A unggul dalam skor (78) dan langsung memenuhi target lingkungan, tetapi harganya 18% lebih mahal. Pemasok B lebih murah dan lokal, kemasannya sudah isi ulang, dan sangat mau berkembang. Namun, B belum punya kapasitas sertifikasi dan data, sehingga belum bisa membuktikan klaim lingkungannya. Mengandalkan B saat ini berisiko pada kualitas dan kepatuhan.
+**Dilemanya.** Apple sedang mendiversifikasi lokasi perakitan iPhone ke luar Tiongkok, antara lain ke India, untuk mengurangi risiko geopolitik dan konsentrasi pasokan. Pemasok Y penting secara strategis (K3), tetapi skor lingkungannya rendah. Akses listrik terbarukan di lokasi baru masih terbatas, jaringan listriknya padat karbon, dan pemasok belum punya kapasitas mengelola data serta Zero Waste. Di sisi lain, Pemasok X sudah hijau, tetapi memusatkan volume di X justru memperbesar risiko konsentrasi.
 
-**Perbandingan opsi (ilustrasi, belanja Rp120 juta per tahun):**
+**Ilustrasi besaran emisi.** Misalkan operasi perakitan Y memakai 100 GWh listrik per tahun. Dengan faktor emisi jaringan listrik India sekitar 0,7 tCO₂/MWh, emisinya sekitar **70.000 tCO₂ per tahun** bila seluruhnya memakai listrik jaringan. Jika 100% terbarukan, emisi listrik ini mendekati nol.
 
-| Opsi | Biaya tahun 1 | Biaya tahun 2 | Capaian T1 (tahun 1) | Risiko utama |
-|---|---|---|---|---|
-| O1: 100% A | Rp141,6 jt (+21,6 jt) | Rp141,6 jt | Tinggi (~90%) | Anggaran membengkak dan ketergantungan pada satu pemasok |
-| O2: 100% B tanpa pengembangan | Rp112 jt | Rp112 jt | Rendah (klaim tidak terverifikasi) | Kualitas dan kepatuhan, risiko greenwashing |
-| **O3: Split A 50% + B 50% dengan program pengembangan** | Rp126,8 jt + 15 jt = **Rp141,8 jt** | ≈ Rp129 jt | Sedang (~55–60%) | Program B gagal. Dimitigasi dengan titik keputusan di bulan ke-6 |
+**Perbandingan opsi:**
 
-Perhitungan O3: (60 × 1,18) + (60 × 0,933) = 70,8 + 56 = Rp126,8 jt, ditambah investasi pengembangan Rp15 jt. Pada tahun 2: 70,8 + (56 × 1,05) ≈ Rp129,6 jt, karena harga B naik ±5% setelah formulasi berubah dan tidak ada lagi investasi.
+| Opsi | Biaya | Emisi listrik Y | Risiko pasokan | Kualitas | Kesesuaian dengan Apple 2030 |
+|---|---|---|---|---|---|
+| O1: Tarik volume kembali ke X | Rendah–sedang | Rendah | **Tinggi** (konsentrasi lokasi) | Tinggi | Sesuai, tetapi rapuh |
+| O2: Tambah volume Y tanpa syarat hijau | **Terendah** | ~70.000 tCO₂/tahun | Rendah | Sedang | **Tidak sesuai**, plus risiko reputasi |
+| **O3: Tambah volume Y secara bertahap, dikaitkan dengan program pengembangan** | Sedang (biaya transisi energi dibagi bersama) | Turun ~50% di tahun ke-2, mendekati nol di 2030 | Rendah | Naik bertahap | **Sesuai** |
 
-**Rekomendasi: O3 (split + pengembangan).**
+**Rekomendasi: O3.**
 
-- Pada tahun 1, biayanya hampir sama dengan O1. Namun, mulai tahun 2, O3 lebih hemat sekitar Rp12 juta per tahun dibanding O1.
-- Risiko pemasok tunggal berkurang, dan pemasok lokal ikut berkembang.
-- Pembagian produk berdasarkan risiko: **produk berisiko tinggi** (disinfektan, pembersih toilet, area kelas TK) tetap dari A, sedangkan **produk berisiko rendah** (pembersih lantai umum, sabun cuci tangan isi ulang) dari B. Dengan begitu, risiko kualitas dan kesehatan tidak dipertaruhkan.
-- **Titik keputusan bulan ke-6:** jika skor B di bawah 65 atau ada temuan kritis, porsi B dikurangi menjadi 25% dan dialihkan ke A.
+- **Volume dinaikkan bertahap sesuai tonggak.** Misalnya porsi Y naik setiap tahun hanya jika tonggak T1 (energi), T5 (data), dan yield tercapai.
+- **Model premium tetap di pemasok matang.** Model atau komponen dengan toleransi kualitas tertinggi tetap di X sampai yield Y stabil, sehingga kualitas peluncuran tidak dipertaruhkan.
+- **Biaya transisi energi dibagi.** PPA kolektif dan komitmen volume multi-tahun membuat investasi energi terbarukan Y layak dibiayai. Biaya ini lebih kecil daripada risiko reputasi dan kegagalan target 2030 jika memilih O2.
+- **Titik keputusan bulan ke-12:** jika porsi energi terbarukan Y di bawah 30% atau ada core violation, ekspansi volume dibekukan.
 
-Dilema ini menunjukkan bahwa green procurement bukan sekadar memilih pemasok tersertifikat termahal. Bagi pembeli kecil, membangun kapasitas pemasok sering kali menjadi jalan yang lebih berkelanjutan, baik dari sisi lingkungan maupun biaya, asalkan disertai pengendalian risiko yang jelas.
+Dilema ini menunjukkan bahwa pada rantai pasok global, tujuan lingkungan bisa bertabrakan dengan tujuan ketahanan pasokan. Solusinya bukan memilih salah satu, melainkan memakai alokasi volume sebagai insentif pengembangan pemasok.
 
 # 10. Kesimpulan
 
-1. Kriteria pembelian hijau dua lapis (gerbang wajib dan kriteria berbobot dengan porsi lingkungan 40%) membuat aspek lingkungan benar-benar memengaruhi keputusan. Pemasok termurah (C) gugur.
-2. Seleksi dan audit berbasis segmentasi risiko membuat upaya audit proporsional, dengan fokus pada kategori Tier 1 seperti bahan kimia pembersih.
-3. Target lingkungan SMART (T1–T6) terhubung langsung dengan kriteria matriks dan diverifikasi melalui mekanisme berbagi data dua arah.
-4. Pengembangan pemasok senilai sekitar Rp15 juta lebih efisien dalam jangka menengah daripada membayar premi harga permanen, asalkan disertai titik keputusan dan pembagian produk berdasarkan risiko.
+1. Kriteria pembelian hijau dua lapis (gerbang Code of Conduct, zat terbatas, dan mineral, lalu kriteria berbobot dengan porsi lingkungan 40%) membuat aspek lingkungan benar-benar memengaruhi alokasi bisnis iPhone. Pemasok termurah (Z) gugur.
+2. Audit berbasis segmentasi risiko memfokuskan sumber daya pada proses berdampak tinggi: perakitan, casing logam, PCB, baterai, dan smelter.
+3. Target pemasok diturunkan dari Apple 2030 (energi terbarukan, material daur ulang, Zero Waste, air) dan diverifikasi melalui data dua arah yang diperiksa pihak ketiga.
+4. Pengembangan pemasok yang dikaitkan dengan alokasi volume menyelesaikan dilema kapasitas vs lingkungan pada strategi diversifikasi lokasi produksi.
 
 # Daftar Rujukan
 
 - **Ref [2]** — *(rujukan utama mata kuliah, sesuaikan dengan daftar rujukan W5)*
 - **Ref [3]** — *(rujukan utama mata kuliah, sesuaikan dengan daftar rujukan W5)*
+- Apple Inc. (terbitan tahunan). *Environmental Progress Report*. Cupertino, CA: Apple Inc.
+- Apple Inc. (terbitan tahunan). *People and Environment in Our Supply Chain*. Cupertino, CA: Apple Inc.
+- Apple Inc. *Apple Supplier Code of Conduct* dan *Supplier Responsibility Standards*. Cupertino, CA: Apple Inc.
 - Bai, C., & Sarkis, J. (2010). Green supplier development: Analytical evaluation using rough set theory. *Journal of Cleaner Production, 18*(12), 1200–1210.
 - International Organization for Standardization. (2017). *ISO 20400:2017 Sustainable procurement — Guidance*. ISO.
 - Krause, D. R., Handfield, R. B., & Scannell, T. V. (1998). An empirical investigation of supplier development: Reactive and strategic processes. *Journal of Operations Management, 17*(1), 39–58.
